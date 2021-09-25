@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi, I'm Sadra and I am a freshman student student at Bilkent University studiying CS.
 
 <!--
 **Sardter/sardter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
