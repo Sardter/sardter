@@ -1,4 +1,16 @@
-### Hi, I'm Sadra and I am a freshman student student at Bilkent University studiying CS.
+I'm a sophomore computer science student in Bilkent University 🏫
+
+🌱 I'm interesred in:
+  - Data Science
+  - Artificial Intelligence
+  - Full-stack App Development
+  - Blockchain
+  - FinTech
+
+📫 How to reach me: 
+
+  - Email: sadra701@gmail.com
+  - LinkedIn: https://www.linkedin.com/in/sadra-m-azarabadi-6145a6212/
 
 <!--
 **Sardter/sardter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
