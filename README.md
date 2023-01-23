@@ -1,4 +1,4 @@
-I'm a sophomore computer science student in Bilkent University 🏫
+I'm a sophomore computer engineering student in Bilkent University 🏫
 
 🌱 I'm interesred in:
   - Data Science
