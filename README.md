@@ -1,4 +1,4 @@
-I'm a sophomore computer engineering student in Bilkent University 🏫
+I'm a junior computer engineering student in Bilkent University 🏫
 
 🌱 I'm interesred in:
   - Data Science
@@ -6,6 +6,7 @@ I'm a sophomore computer engineering student in Bilkent University 🏫
   - Full-stack App Development
   - Blockchain
   - FinTech
+  - Devops
 
 📫 How to reach me: 
 
