@@ -4,7 +4,6 @@ I'm a senior computer engineering student in Bilkent University 🏫
   - Data Science
   - Artificial Intelligence
   - Full-stack App Development
-  - Blockchain
   - FinTech
   - Devops
 
