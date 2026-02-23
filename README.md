@@ -10,7 +10,7 @@ I'm a recent computer engineering gradute from Bilkent University 🏫
 📫 How to reach me: 
 
   - Email: sadra701@gmail.com
-  - LinkedIn: https://www.linkedin.com/in/sadra-m-azarabadi-6145a6212/
+  - LinkedIn: [URL](https://www.linkedin.com/in/sardter/)
 
 <!--
 **Sardter/sardter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
