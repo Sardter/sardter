@@ -1,4 +1,4 @@
-I'm a senior computer engineering student in Bilkent University 🏫
+I'm a recent computer engineering gradute from Bilkent University 🏫
 
 🌱 I'm interesred in:
   - Data Science
